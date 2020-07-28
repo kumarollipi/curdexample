@@ -1,5 +1,5 @@
 FROM python:3
-MAINTaINER lavakumar
+MAINTAINER lavakumar
 
 ENV PYTHONUNBUFFERED 1
 
